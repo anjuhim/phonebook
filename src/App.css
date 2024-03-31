@@ -1,0 +1,24 @@
+.title {
+  text-align: center;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: blueviolet;
+  padding: 5px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 16px;
+  overflow: hidden;
+  font-weight: bold;
+  color: white;
+}
+
+.row-wrap {
+  margin: 10px;
+  padding: 10px;
+  padding-left: 5px;
+  border: 1px solid gainsboro;
+}
